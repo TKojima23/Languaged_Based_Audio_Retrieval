@@ -1,0 +1,7 @@
+.idea
+.venv/
+artifacts/
+checkpoints/
+CLAP/
+__pycache__/
+*.pyc
